@@ -10,7 +10,7 @@ dependencies = [
     "soundfile>=0.12.0",
     "mlx-whisper>=0.1.0",
     "openai>=1.0.0",
-    "watchdog>=3.0.0",
+    "watchdog>=6.0.0",
 ]
 
 [project.scripts]
